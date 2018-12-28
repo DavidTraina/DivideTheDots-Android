@@ -1,0 +1,10 @@
+colors.png
+zebra.jpg
+tiger.jpg
+sloth.jpg
+giraffe.jpg
+hippo.jpg
+penguin.jpg
+elephant.jpg
+cow.jpg
+gorilla.jpg
