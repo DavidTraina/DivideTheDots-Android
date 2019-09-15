@@ -1,2 +1,2 @@
-My DivideTheDots Processing program as an Android project.
+DivideTheDots as an Android project.
 
